@@ -15,6 +15,7 @@ $list = @"
 
 
 #Add up the strings, but do it more elegant than this...
+$t = 0
 $t += 1
 $t += 1+2
 $t += 1+2+3
