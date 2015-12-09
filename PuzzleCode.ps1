@@ -12,3 +12,9 @@ $list = @"
 11 Pipers piping
 12 Drummers drumming
 "@
+
+
+#Add up the strings, but do it more elegant than this...
+$t += 1
+$t += 1+2
+$t += 1+2+3
